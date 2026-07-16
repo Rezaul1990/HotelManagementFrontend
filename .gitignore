@@ -45,3 +45,5 @@ next-env.d.ts
 # Ignore all Markdown documentation and agent instruction files.
 *.md
 **/*.md
+
+.vercel
